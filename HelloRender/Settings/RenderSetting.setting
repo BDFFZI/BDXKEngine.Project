@@ -1,0 +1,14 @@
+{
+    "objectCount": 1,
+    "object_0": {
+        "fileID": 1886362714,
+        "data": {
+            "type": "class BDXKEngine::RenderSetting",
+            "name": "RenderSetting",
+            "skybox": {
+                "guid": "890c5c0e-eb25-4262-a38e-00d26dfb0e85",
+                "fileID": 1000000000
+            }
+        }
+    }
+}
